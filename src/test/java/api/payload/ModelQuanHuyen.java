@@ -1,0 +1,1 @@
+package api.payload;import lombok.Getter;import lombok.NoArgsConstructor;import lombok.Setter;@Setter@Getter@NoArgsConstructorpublic class ModelQuanHuyen {    private String ma;    private String ten;    private String url;}
